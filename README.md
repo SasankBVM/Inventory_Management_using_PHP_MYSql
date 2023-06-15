@@ -1,0 +1,16 @@
+# Inventory_Management_using_PHP_MYSql
+This is an inventory management using PHP Mysql.
+![image](https://github.com/SasankBVM/Inventory_Management_using_PHP_MYSql/assets/84608186/54ac9072-ede5-4e66-9ee4-68e1bad5144e)
+![image](https://github.com/SasankBVM/Inventory_Management_using_PHP_MYSql/assets/84608186/3c5d2929-d43e-49c7-b0b0-56b6190f55a1)
+![image](https://github.com/SasankBVM/Inventory_Management_using_PHP_MYSql/assets/84608186/145310c3-3ca8-4247-aff4-236217004222)
+![image](https://github.com/SasankBVM/Inventory_Management_using_PHP_MYSql/assets/84608186/903fd13f-6296-42a4-9a2f-bfb075733a8b)
+![image](https://github.com/SasankBVM/Inventory_Management_using_PHP_MYSql/assets/84608186/902c327d-e368-40e4-8ffb-82cbe58ec18e)
+![image](https://github.com/SasankBVM/Inventory_Management_using_PHP_MYSql/assets/84608186/34505a71-134a-41bd-94cc-c68846ef23f6)
+![image](https://github.com/SasankBVM/Inventory_Management_using_PHP_MYSql/assets/84608186/f219a01c-9c6c-4e15-af6f-0915738c0cca)
+![image](https://github.com/SasankBVM/Inventory_Management_using_PHP_MYSql/assets/84608186/c8e42ce1-636c-4828-bedf-88b024c8084c)
+![image](https://github.com/SasankBVM/Inventory_Management_using_PHP_MYSql/assets/84608186/e18cb4c5-6a5c-405f-9d5e-c002dc377368)
+![image](https://github.com/SasankBVM/Inventory_Management_using_PHP_MYSql/assets/84608186/fb6b5ba3-3f36-49e0-a45f-a7cfb630de57)
+![image](https://github.com/SasankBVM/Inventory_Management_using_PHP_MYSql/assets/84608186/6256bab0-31d1-4dcf-91be-9f97093a8bca)
+![image](https://github.com/SasankBVM/Inventory_Management_using_PHP_MYSql/assets/84608186/611bf479-edd2-4ae0-a454-e4424b247a95)
+![image](https://github.com/SasankBVM/Inventory_Management_using_PHP_MYSql/assets/84608186/cae61ce8-5f47-4f42-8ec3-38434da84968)
+![image](https://github.com/SasankBVM/Inventory_Management_using_PHP_MYSql/assets/84608186/395e038f-0b22-47b7-acd6-cc6d3be65a03)
